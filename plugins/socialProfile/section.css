@@ -1,0 +1,7 @@
+#socialProfileAppend .service_icon {
+    display: inline-block;
+    width: 1em;
+    text-align: center;
+    padding: auto;
+    margin-right: .5em;
+}
