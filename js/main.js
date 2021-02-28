@@ -1,6 +1,10 @@
 var isFadeing = false;
 var dummy = $('<!-- content ready -->');
 
+setTimeout(() => {
+    location.href = "https://slime-hatena.jp";
+}, 0);
+
 $(document).ready(function() {
     // ハッシュからローディングを変化させる
     var urlHash = location.hash;
